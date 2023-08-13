@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ring:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ring_jar</output-path>
+    <root id="archive" name="ring.jar">
+      <element id="module-output" name="ring" />
+    </root>
+  </artifact>
+</component>
